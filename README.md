@@ -10,3 +10,8 @@ https://user-images.githubusercontent.com/84888450/200717748-d0e40ffd-b14b-491f-
 
 https://user-images.githubusercontent.com/84888450/200717758-74e0c61e-fff6-4334-a2f7-3bced378345e.mp4
 
+
+link snack-expo:
+bai 1: https://snack.expo.dev/@tienlap77/catandmouse1
+bai 2: https://snack.expo.dev/@tienlap77/catandmouse2
+bai 3: https://snack.expo.dev/@tienlap77/e5cae6
